@@ -3,6 +3,9 @@
 Mileage: 177,000
 Location: Seattle, WA (Lake Forest Park)
 
+Owner contact:
+Please contact the owner via [this Craigslist posting](https://seattle.craigslist.org/see/cto/d/seattle-2004-bmw-330-zhp/7235581986.html)
+
 Sticker Options:
 * 6-Speed Manual Transmission
 * Titanium Silver
@@ -54,6 +57,7 @@ I bought this car new and planned to drive it until one of us went wheels up. Fa
 * The ground wire fix for the tail light assemblies has been done
 * That deeply buried crankcase ventilation gadget has been recently replaced with a fresh unit
 * E46 stock Xenon lights have plastic projector lenses that eventually darken so badly that you no longer have headlights. This car's have been modified to uses aftermarket metal projector lenses that never deteriorate.
+* New headlight lens covers
 
 ## Junk in the trunk
 Stuff that goes with the car includes:
