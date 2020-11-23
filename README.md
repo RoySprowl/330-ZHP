@@ -7,6 +7,9 @@ Location: Seattle, WA (Lake Forest Park)
 Owner contact:
 Please contact the owner via [this Craigslist posting](https://seattle.craigslist.org/see/cto/d/seattle-2004-bmw-330-zhp/7235581986.html)
 
+![Just like my car](zhp-pic.jpg)
+This image was blatantly copied from [Rev's Garage](https://revsgarage.wordpress.com/2018/05/16/average-joe-car-review-e46-330i-zhp/) until I can wash my own car to photograph it.
+
 Sticker Options:
 * 6-Speed Manual Transmission
 * Titanium Silver
