@@ -7,7 +7,7 @@ Location: Seattle, WA (Lake Forest Park)
 Owner contact:
 Please contact the owner via [this Craigslist posting](https://seattle.craigslist.org/see/cto/d/seattle-2004-bmw-330-zhp/7235581986.html)
 
-Price: The asking price is $8000 or best offer, and I understand this is quite a high number, and knowing what I know about the car and appreciating the car's amazing handling as I do, I would gladly cough up that much myself to acquire it. However, I do need a fast sale, so the buyer has lots of leverage here. Furthermore, "best offer" does not necessarily mean highest number -- I would love to see this car go to someone who will appreciate it as much as it deserves.
+Price: The asking price is $8000 or best offer, and I understand this is quite a high number, yet knowing what I know about the car and appreciating the car's amazing handling as I do, I would gladly cough up that much myself to acquire it. However, I do need a fast sale, so the buyer has lots of leverage here. Furthermore, "best offer" does not necessarily mean highest number -- I would love to see this car go to someone who will appreciate it as much as it deserves.
 
 ![Just like my car](zhp-pic.jpg)
 This image was blatantly copied from [Rev's Garage](https://revsgarage.wordpress.com/2018/05/16/average-joe-car-review-e46-330i-zhp/) until I can wash my own car to photograph it.
