@@ -1,6 +1,7 @@
 # Roy's 2004 330 ZHP 6-speed Sedan
 
-Mileage: 177,000
+Mileage: 177,000 (original owner)
+
 Location: Seattle, WA (Lake Forest Park)
 
 Owner contact:
