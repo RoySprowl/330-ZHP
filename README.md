@@ -77,3 +77,26 @@ Stuff that goes with the car includes:
 TC Kline DA suspensions are great on the track, but they have a couple of potential drawbacks. One is that some rear shocks of this type, being racing shocks, will make a clicking noise. Not a problem on the track, but not what you want in your daily driver. Fortunately, TC was good enough to work with me to find a quiet pair, and it seems if they don't start making noise in the first few hundred miles then they stay quiet. These have stayed quiet.
 
 The other potential problem with the TC Kline setup is that the camber plates rely on a heavily loaded ball joint to allow for steering rotation. This joint can stop rotating after a time, and then the steering rotation causes a very noticeable "tink-tink-tink" noise as the bottom of the spring mount rotates and the top doesn't, causing the spring to stick and slip. I got tired of this and modifed the TCK camber plate by having a new part fabricated to replace the caster adjustment with a nice heavy tapered roller bearing. This modifed plate no longer has caster ajustment; the caster is set at max positive for best steering feel. It is now blissfully quiet.
+
+## Maintenance notes
+I'm afraid some of these numbers are estimates because I'm too crushed for time to check against the receipts. The Inspection 1 at about 151,000 was performed by me, but not properly recorded due to personal exigincies.
+
+The car was only driven about 2000 miles between now (12/1/2020) and a year ago due to my time spent in Maui. Otherwise the car has accumulated about 10,000 - 12,000 miles per year for the past several years
+
+* Oil and filter have been done per the dash display, and they get changed at the tracked interval (about 15,000) and the tracked interval plus 7,500. Today (12/1/2020) the service indicator reads 10050, so it's been about 5000 since last oil and filter, and I'd do the next change in 2500 mile from now. The Junk In The Trunk includes 2 filters, 10 quarts of oil, and one of those vacuum oil changers so you won't need filters right away.
+* Air filter was done about 2 years ago.
+* Brake fluid 154,312 miles 12 Jun 2017.
+* Belts and pulleys about 3 years ago.
+* Cabin air filter was this time last year, so it's fresh.
+* Transmission fluid 154,312 miles 12 Jun 2017
+* Power steering fluid 154,312 miles 12 Jun 2017
+* Differential fluid 154,312 miles 12 Jun 2017. **IMPORTANT!!** THe diff must ONLY use the OS Giken fluid, [which can be ordered here](https://osgikenusa.com/products/os011-ka1) and no where else. Make a note of this web site location, because it's confusingly among the hats and shirts.
+* Coolant about 151,000 miles
+* Fuel filter about 4 years ago
+* Cooling tank about 151,000
+* Hoses, thermostat and coolant about 151,000. As a repair, the temperature sender has been RTV'd into the lower coolant hose, so when it's time to replace either you'll need to replace both. The o-ring on that sender tends to shrink and fail (it's happened to me twice, but it's a slow leak rather than a roadside disaster), so I'd suggest RTVing it in when you do change it and just treat the two things as a unit.
+* Water pump 124,205 20 Oct 2013
+* Valve cover gasket 154,312 miles 12 Jun 2017
+* Oil filler housing gasket 124,205 20 Oct 2013
+* CCV about 3 or 4 years ago
+* Disa valve about 3 years ago
